@@ -1,0 +1,20 @@
+{
+  "name": "threejs-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^4.0.0"
+  },
+  "dependencies": {
+    "dat.gui": "^0.7.9",
+    "proj4": "^2.15.0",
+    "three": "^0.150.0"
+  }
+}
